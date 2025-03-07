@@ -6,4 +6,4 @@ All Of The Arctic 1.0 Sites
 
 3. The First Backup Site: https://putnamcityschools.malam.or.id
 
-4. The Second Backup Site:https://logiclearn.ih4a.co.za
+4. The Second Backup Site https://logiclearn.ih4a.co.za
